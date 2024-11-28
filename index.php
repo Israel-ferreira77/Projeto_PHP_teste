@@ -1,4 +1,5 @@
 <?php
+include_once('connector.php');
 
 include_once('templates/topo.php'); 
 include_once('templates/menu.php');

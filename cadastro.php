@@ -3,7 +3,6 @@
     
     Nome: <input type="text" name="nome" required><br><br>
     E-mail: <input type="email" id="email" name="email" required><br><br>
-    Mensagem: <input type="text" name="nome" required><br><br>
 
     <input type="submit" value="Cadastrar">
 
